@@ -11,5 +11,7 @@ Below is a preview of what the UI looks like
 
 ![](Images/Morse_Code_.JPG)
 
+![](Images/Text.PNG)
+
 
 
