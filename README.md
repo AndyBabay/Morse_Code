@@ -18,6 +18,8 @@ Below i have a provided an alphabet sheet for morse code and a preview of UI sho
 
 # Experience
 
+Learned how to use BST's, generics, and interfaces to create project
+
 
 
 
