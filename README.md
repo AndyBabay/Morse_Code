@@ -1,7 +1,7 @@
 
 # Overview
 
-One of the most well known signals sent during distress is ". . . - - - . . ." which can be translated as SOS in Morse code.
+FUN FACT: One of the most well known signals sent during distress is ". . . - - - . . ." which can be translated as SOS in Morse code.
 
 This project hopes to mirror what communication was like in the early 1800s through a program that does conversion from Morse code to English.
 
