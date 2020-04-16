@@ -9,7 +9,7 @@ What seperates this project from a conventional morse code project is the inclus
 
 The GUI was developed with JavaFX, a very powerful Desktop application.
 
-Below i have a provided an alphabet sheet for morse code and a preview of UI should you decide to run program
+Below i have a provided an alphabet sheet for morse code and a preview of UI should you decide to run the program
 
 ![](Images/Text.PNG)
 
