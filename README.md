@@ -1,3 +1,4 @@
+#Overview
 One of the most well known signals sent during distress is ". . . - - - . . ." which can be translated as SOS in Morse code.
 
 This project hopes to mirror what communication was like in the early 1800s through a program that does conversion from Morse code to English.
@@ -12,6 +13,8 @@ Below i have a provided an alphabet sheet for morse code and a preview of UI sho
 
 ![](Images/Morse_Code_.JPG)
 
+
+# Experience
 
 
 
